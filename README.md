@@ -15,3 +15,8 @@ https://github.com/nanopool/Claymore-Dual-Miner/releases
 # Other Instructions
 https://github.com/angelomilan/ethereum-guides/blob/master/GPU-cloud_mining.md
 
+# Ubuntu 16.04 Gave a libcurl error on binary exec
+
+```
+$ sudo apt-get install libcurl3
+```
